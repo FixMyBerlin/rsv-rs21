@@ -1,0 +1,35 @@
+{
+  "id": "pa6",
+  "type": "Feature",
+  "properties": {
+    "subsectionSlug": "pa6",
+    "projectSlug": "frm7",
+    "operator": "Stadt Frankfurt",
+    "estimatedCompletionDateString": null
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.739249384450178,
+        50.1314617132707
+      ],
+      [
+        8.74016691,
+        50.13158881
+      ],
+      [
+        8.74130369,
+        50.13172742
+      ],
+      [
+        8.74453796,
+        50.13199276
+      ],
+      [
+        8.749514374574645,
+        50.13232459266256
+      ]
+    ]
+  }
+}

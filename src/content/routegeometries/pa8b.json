@@ -1,0 +1,35 @@
+{
+  "id": "pa8b",
+  "type": "Feature",
+  "properties": {
+    "subsectionSlug": "pa8b",
+    "projectSlug": "frm7",
+    "operator": "Stadt Frankfurt",
+    "estimatedCompletionDateString": null
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.76396589,
+        50.13378796
+      ],
+      [
+        8.76438797,
+        50.13366981
+      ],
+      [
+        8.76559734,
+        50.13420443
+      ],
+      [
+        8.76521738,
+        50.13455193
+      ],
+      [
+        8.76534284,
+        50.13461958
+      ]
+    ]
+  }
+}

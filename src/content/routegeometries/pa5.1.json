@@ -1,0 +1,26 @@
+{
+  "id": "pa5.1",
+  "type": "Feature",
+  "properties": {
+    "subsectionSlug": "pa5.1",
+    "projectSlug": "rs21",
+    "estimatedCompletionDateString": null
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        9.165470117082707,
+        48.91366657476807
+      ],
+      [
+        9.165975436498524,
+        48.91336889584746
+      ],
+      [
+        9.167368470141902,
+        48.91234840181409
+      ]
+    ]
+  }
+}
