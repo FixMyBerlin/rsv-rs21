@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hintergrund -->
+  <rect width="512" height="512" fill="#EC008C" />
+
+  <!-- Blauer Schrägbalken oben rechts -->
+  <polygon points="0,0 512,0 440,100 0,100" fill="#0066B3" />
+
+  <!-- Text "RS" oben links -->
+  <text x="30" y="70" font-family="Arial, sans-serif" font-size="60" fill="white" font-weight="bold">RS</text>
+
+  <!-- Zahl "21" zentriert -->
+  <text x="50%" y="62%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial, sans-serif" font-size="260" fill="white" font-weight="bold">21</text>
+</svg>
