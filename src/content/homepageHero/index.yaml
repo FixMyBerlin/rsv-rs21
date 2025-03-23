@@ -3,8 +3,11 @@ participation:
 title1: Der RS 21
 title2: Ein neuer Radschnellweg
 waypoints:
+  - Bietigheim-Bissingen
+  - Tamm
   - Ludwigsburg
-  - Waiblingen
+  - Kornwestheim
+  - Stuttgart
 image: ../../content/homepageHero/image.jpg
 imageCopyright: >-
   Beispieldarstellung eines Radschnellwegs © Ministerium für Verkehr
