@@ -4,7 +4,8 @@
   "properties": {
     "subsectionSlug": "pa1",
     "projectSlug": "rs21",
-    "estimatedCompletionDateString": null
+    "estimatedCompletionDateString": null,
+    "status": "In Planung"
   },
   "geometry": {
     "type": "LineString",

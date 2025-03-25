@@ -7,7 +7,8 @@
       "properties": {
         "subsectionSlug": "pa3.2",
         "projectSlug": "rs21",
-        "estimatedCompletionDateString": null
+        "estimatedCompletionDateString": null,
+        "status": "In Planung"
       },
       "geometry": {
         "type": "LineString",
@@ -41,7 +42,8 @@
       "properties": {
         "subsectionSlug": "pa3.1",
         "projectSlug": "rs21",
-        "estimatedCompletionDateString": null
+        "estimatedCompletionDateString": null,
+        "status": "In Planung"
       },
       "geometry": {
         "type": "LineString",
@@ -99,7 +101,8 @@
       "properties": {
         "subsectionSlug": "pa1",
         "projectSlug": "rs21",
-        "estimatedCompletionDateString": null
+        "estimatedCompletionDateString": null,
+        "status": "In Planung"
       },
       "geometry": {
         "type": "LineString",
@@ -229,7 +232,8 @@
       "properties": {
         "subsectionSlug": "pa2",
         "projectSlug": "rs21",
-        "estimatedCompletionDateString": null
+        "estimatedCompletionDateString": null,
+        "status": "In Planung"
       },
       "geometry": {
         "type": "LineString",
@@ -271,7 +275,8 @@
       "properties": {
         "subsectionSlug": "pa4.2",
         "projectSlug": "rs21",
-        "estimatedCompletionDateString": null
+        "estimatedCompletionDateString": null,
+        "status": "In Planung"
       },
       "geometry": {
         "type": "LineString",
@@ -293,7 +298,8 @@
       "properties": {
         "subsectionSlug": "pa4.1",
         "projectSlug": "rs21",
-        "estimatedCompletionDateString": null
+        "estimatedCompletionDateString": null,
+        "status": "In Planung"
       },
       "geometry": {
         "type": "LineString",
@@ -575,7 +581,8 @@
       "properties": {
         "subsectionSlug": "pa5.2",
         "projectSlug": "rs21",
-        "estimatedCompletionDateString": null
+        "estimatedCompletionDateString": null,
+        "status": "In Planung"
       },
       "geometry": {
         "type": "LineString",
@@ -1049,7 +1056,8 @@
       "properties": {
         "subsectionSlug": "pa5.1",
         "projectSlug": "rs21",
-        "estimatedCompletionDateString": null
+        "estimatedCompletionDateString": null,
+        "status": "In Planung"
       },
       "geometry": {
         "type": "LineString",
